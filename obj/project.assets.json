@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/JulianKreugel/.nuget/packages/": {}
+    "/Users/juliankreugel/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/JulianKreugel/C#Repos/C#Repos.csproj",
+      "projectUniqueName": "/Users/juliankreugel/C# Repos/C-Repos/C#Repos.csproj",
       "projectName": "C#Repos",
-      "projectPath": "/Users/JulianKreugel/C#Repos/C#Repos.csproj",
-      "packagesPath": "/Users/JulianKreugel/.nuget/packages/",
-      "outputPath": "/Users/JulianKreugel/C#Repos/obj/",
+      "projectPath": "/Users/juliankreugel/C# Repos/C-Repos/C#Repos.csproj",
+      "packagesPath": "/Users/juliankreugel/.nuget/packages/",
+      "outputPath": "/Users/juliankreugel/C# Repos/C-Repos/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/JulianKreugel/.nuget/NuGet/NuGet.Config"
+        "/Users/juliankreugel/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"

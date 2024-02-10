@@ -8,8 +8,8 @@ namespace CodeGrade
         {
             Console.WriteLine("Which direction?");
             string direction = Console.ReadLine().ToLower();
-            int X = 0
-            int Y = 0
+            int X = 0;
+            int Y = 0;
             switch (direction)
             {
                 case "up":
@@ -28,8 +28,8 @@ namespace CodeGrade
                     Console.WriteLine("Invalid direction");
                     break;
             }
-            Console.WriteLine("Current position")
-            Console.WriteLine($"X : {X}, Y : {Y}")
+            Console.WriteLine("Current position");
+            Console.WriteLine($"X:{X}, Y:{Y}");
         }
     }
 }

@@ -12,8 +12,8 @@ namespace CodeGrade
                 >= 13 and <= 19 => "a teenager",
                 >= 20 and <= 150 => "an adult",
                 _ => "invalid"
-            }
-            Console.WriteLine($"Age: {Age}: {Category}");
+            };
+            Console.WriteLine($"Age {Age}: {Category}");
         }
     }
 }
