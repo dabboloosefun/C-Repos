@@ -1,0 +1,15 @@
+C:\Users\Judith\CodeGrade\C-Repos\CodeGrade\Week 1.2\1.2.H07\bin\Debug\net8.0\C#Repos.exe
+C:\Users\Judith\CodeGrade\C-Repos\CodeGrade\Week 1.2\1.2.H07\bin\Debug\net8.0\C#Repos.deps.json
+C:\Users\Judith\CodeGrade\C-Repos\CodeGrade\Week 1.2\1.2.H07\bin\Debug\net8.0\C#Repos.runtimeconfig.json
+C:\Users\Judith\CodeGrade\C-Repos\CodeGrade\Week 1.2\1.2.H07\bin\Debug\net8.0\C#Repos.dll
+C:\Users\Judith\CodeGrade\C-Repos\CodeGrade\Week 1.2\1.2.H07\bin\Debug\net8.0\C#Repos.pdb
+C:\Users\Judith\CodeGrade\C-Repos\CodeGrade\Week 1.2\1.2.H07\obj\Debug\net8.0\C#Repos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Judith\CodeGrade\C-Repos\CodeGrade\Week 1.2\1.2.H07\obj\Debug\net8.0\C#Repos.AssemblyInfoInputs.cache
+C:\Users\Judith\CodeGrade\C-Repos\CodeGrade\Week 1.2\1.2.H07\obj\Debug\net8.0\C#Repos.AssemblyInfo.cs
+C:\Users\Judith\CodeGrade\C-Repos\CodeGrade\Week 1.2\1.2.H07\obj\Debug\net8.0\C#Repos.csproj.CoreCompileInputs.cache
+C:\Users\Judith\CodeGrade\C-Repos\CodeGrade\Week 1.2\1.2.H07\obj\Debug\net8.0\C#Repos.sourcelink.json
+C:\Users\Judith\CodeGrade\C-Repos\CodeGrade\Week 1.2\1.2.H07\obj\Debug\net8.0\C#Repos.dll
+C:\Users\Judith\CodeGrade\C-Repos\CodeGrade\Week 1.2\1.2.H07\obj\Debug\net8.0\refint\C#Repos.dll
+C:\Users\Judith\CodeGrade\C-Repos\CodeGrade\Week 1.2\1.2.H07\obj\Debug\net8.0\C#Repos.pdb
+C:\Users\Judith\CodeGrade\C-Repos\CodeGrade\Week 1.2\1.2.H07\obj\Debug\net8.0\C#Repos.genruntimeconfig.cache
+C:\Users\Judith\CodeGrade\C-Repos\CodeGrade\Week 1.2\1.2.H07\obj\Debug\net8.0\ref\C#Repos.dll

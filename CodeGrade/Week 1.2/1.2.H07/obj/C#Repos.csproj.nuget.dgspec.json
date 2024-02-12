@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Judith\\CodeGrade\\C-Repos\\C#Repos.csproj": {}
+    "C:\\Users\\Judith\\CodeGrade\\C-Repos\\CodeGrade\\Week 1.2\\1.2.H07\\C#Repos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Judith\\CodeGrade\\C-Repos\\C#Repos.csproj": {
+    "C:\\Users\\Judith\\CodeGrade\\C-Repos\\CodeGrade\\Week 1.2\\1.2.H07\\C#Repos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Judith\\CodeGrade\\C-Repos\\C#Repos.csproj",
+        "projectUniqueName": "C:\\Users\\Judith\\CodeGrade\\C-Repos\\CodeGrade\\Week 1.2\\1.2.H07\\C#Repos.csproj",
         "projectName": "C#Repos",
-        "projectPath": "C:\\Users\\Judith\\CodeGrade\\C-Repos\\C#Repos.csproj",
+        "projectPath": "C:\\Users\\Judith\\CodeGrade\\C-Repos\\CodeGrade\\Week 1.2\\1.2.H07\\C#Repos.csproj",
         "packagesPath": "C:\\Users\\Judith\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Judith\\CodeGrade\\C-Repos\\obj\\",
+        "outputPath": "C:\\Users\\Judith\\CodeGrade\\C-Repos\\CodeGrade\\Week 1.2\\1.2.H07\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Judith\\AppData\\Roaming\\NuGet\\NuGet.Config"
