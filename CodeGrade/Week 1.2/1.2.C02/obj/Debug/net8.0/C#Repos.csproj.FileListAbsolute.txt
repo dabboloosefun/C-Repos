@@ -1,0 +1,15 @@
+/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.CO2/bin/Debug/net8.0/C#Repos
+/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.CO2/bin/Debug/net8.0/C#Repos.deps.json
+/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.CO2/bin/Debug/net8.0/C#Repos.runtimeconfig.json
+/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.CO2/bin/Debug/net8.0/C#Repos.dll
+/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.CO2/bin/Debug/net8.0/C#Repos.pdb
+/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.CO2/obj/Debug/net8.0/C#Repos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.CO2/obj/Debug/net8.0/C#Repos.AssemblyInfoInputs.cache
+/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.CO2/obj/Debug/net8.0/C#Repos.AssemblyInfo.cs
+/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.CO2/obj/Debug/net8.0/C#Repos.csproj.CoreCompileInputs.cache
+/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.CO2/obj/Debug/net8.0/C#Repos.sourcelink.json
+/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.CO2/obj/Debug/net8.0/C#Repos.dll
+/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.CO2/obj/Debug/net8.0/refint/C#Repos.dll
+/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.CO2/obj/Debug/net8.0/C#Repos.pdb
+/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.CO2/obj/Debug/net8.0/C#Repos.genruntimeconfig.cache
+/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.CO2/obj/Debug/net8.0/ref/C#Repos.dll

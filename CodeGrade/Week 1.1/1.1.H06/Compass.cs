@@ -15,18 +15,11 @@ namespace CodeGrade
             string south = Console.ReadLine();
             Console.WriteLine("Y/N?");
             string west = Console.ReadLine();
-            Console.WriteLine("Give a baering.");
+            Console.WriteLine("Give a bearing.");
             double bearing = Convert.ToDouble(Console.ReadLine());
             while (bearing < 0 || bearing >= 360)
             {
-                if (bearing < 0)
-                {
-                    bearing += 360;
-                }
-                else if (bearing >= 360)
-                {
-                    bearing -= 360;
-                }
+                bearing = bearing < 0 ? + 360 : - 360;
             }
             (bool possible, string direction) = bearing switch
             {

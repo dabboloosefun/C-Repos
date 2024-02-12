@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#Repos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c049718e3408b9563213f04f6bfbf48d20bfb55d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b074aed249bc943c7ecf09dfde7d046c8a74b7d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#Repos")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#Repos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
