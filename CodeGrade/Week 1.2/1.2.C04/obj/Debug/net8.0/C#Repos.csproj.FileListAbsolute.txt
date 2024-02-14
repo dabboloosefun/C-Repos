@@ -1,5 +1,0 @@
-/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.C04/obj/Debug/net8.0/C#Repos.GeneratedMSBuildEditorConfig.editorconfig
-/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.C04/obj/Debug/net8.0/C#Repos.AssemblyInfoInputs.cache
-/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.C04/obj/Debug/net8.0/C#Repos.AssemblyInfo.cs
-/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.C04/obj/Debug/net8.0/C#Repos.csproj.CoreCompileInputs.cache
-/Users/juliankreugel/C# Repos/C-Repos/CodeGrade/Week 1.2/1.2.C04/obj/Debug/net8.0/C#Repos.sourcelink.json
